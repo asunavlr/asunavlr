@@ -1,4 +1,4 @@
-## Sou o Kevin Matos, criador de conteúdo de programação e tecnologia!
+## My name's Kevin Matos, I'm a programmer and a games content creator!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
