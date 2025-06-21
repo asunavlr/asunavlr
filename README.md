@@ -1,4 +1,4 @@
-## My name's Kevin Matos, I'm a programmer and a games content creator!
+## My name's Kevin, ima coder and a games content creator <3
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
