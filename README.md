@@ -95,18 +95,15 @@ My main interests include:
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Wallet Service — Financial Transaction Engine
 
 [View Repository](https://github.com/asunavlr/wallet-service)
 
-A backend service built in Go for managing financial transactions in gaming platforms.
-
-Designed to process BET, WIN, LOSS, REFUND, and ROLLBACK operations through HTTP and AWS SQS, maintaining consistent financial guarantees across both entry points.
+A Go backend service for processing financial transactions in gaming platforms. Supports BET, WIN, LOSS, REFUND, and ROLLBACK operations through HTTP and AWS SQS, with consistency guarantees across both entry points.
 
 **Engineering highlights:**
-
 - Idempotent transaction processing
 - Concurrent balance updates and transaction safety
 - PostgreSQL transactions, constraints, and migrations
@@ -120,6 +117,64 @@ Designed to process BET, WIN, LOSS, REFUND, and ROLLBACK operations through HTTP
 **Tech:** Go · PostgreSQL · AWS SQS · Docker · Keycloak · Uber Fx · Prometheus
 
 **284 automated tests** covering business rules, concurrency, integrations, and end-to-end behavior.
+
+### RAG Platform — Retrieval-Augmented Generation API
+
+[View Repository](https://github.com/asunavlr/rag-platform)
+
+A multi-tenant RAG API for ingesting documents, retrieving relevant context, and generating grounded answers with source citations.
+
+- PDF, TXT, and Markdown ingestion with configurable chunking
+- Hybrid retrieval combining vector similarity and lexical search
+- Reciprocal Rank Fusion and reranking
+- Pluggable embeddings and OpenAI-compatible generation
+- Tenant-scoped API access and source-level citations
+- FastAPI, PostgreSQL, Docker, and automated tests
+
+**Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · RAG · Embeddings · Docker
+
+### SaaS Starter — Multi-Tenant Backend Foundation
+
+[View Repository](https://github.com/asunavlr/saas-starter)
+
+A Go backend foundation for SaaS products, focused on tenant isolation, authentication, authorization, and subscription-based entitlements.
+
+- Organization and membership model with role-based access
+- JWT authentication and password hashing
+- Tenant-scoped project operations
+- Plan limits and subscription entitlements
+- Audit events and IP-based rate limiting
+- PostgreSQL, Redis, migrations, and Docker Compose
+
+**Tech:** Go · PostgreSQL · Redis · JWT · Docker · Chi
+
+### AgentFlow — Workflow & AI Agent Orchestration
+
+[View Repository](https://github.com/asunavlr/agent-flow)
+
+A workflow engine that models automation as explicit graphs, with state transitions, tool execution, conditional routing, and human approval steps.
+
+- Graph-based workflows with typed node operations
+- Allowlisted tools and conditional execution
+- Persistent runs, state, and execution traces
+- Human-in-the-loop approval with pause and resume
+- REST API, Docker, and automated tests
+
+**Tech:** Python · FastAPI · SQLAlchemy · Pydantic · Docker
+
+### DevPulse — Uptime & Incident Monitoring
+
+[View Repository](https://github.com/asunavlr/dev-pulse)
+
+An API-driven service monitoring platform that checks HTTP endpoints, records availability and latency, and tracks incidents when targets fail or recover.
+
+- Configurable HTTP health checks and latency thresholds
+- Persistent check history and incident lifecycle
+- Recovery detection and incident resolution
+- Prometheus metrics for checks, latency, and target status
+- PostgreSQL, Docker Compose, and automated tests
+
+**Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · Prometheus · Docker
 
 ---
 
@@ -184,10 +239,9 @@ Working on customer service workflows, CRM-related systems, and marketing manage
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asunavlr&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asunavlr&layout=compact&theme=transparent&hide_border=true" />
-</p>
+Explore my repositories, implementation details, and ongoing engineering work on [my GitHub profile](https://github.com/asunavlr).
+
+[Browse all repositories →](https://github.com/asunavlr?tab=repositories) · [View contribution activity →](https://github.com/asunavlr)
 
 ---
 
