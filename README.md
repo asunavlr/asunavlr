@@ -49,6 +49,7 @@ Plus 40+ websites delivered for clients through my studio, [Comply](https://comp
 | Claude Code in Action | Anthropic | [verify](https://verify.skilljar.com/c/6ns49ycpxey5) |
 | AI Fluency: Framework & Foundations (with University College Cork) | Anthropic | [verify](https://verify.skilljar.com/c/7ostw3biyn2t) |
 | Intermediate Machine Learning | Kaggle | [verify](https://www.kaggle.com/learn/certification/kevinvlr/intermediate-machine-learning) |
+| English C2 Proficient (EF SET 80/100) | EF Education First | [verify](https://cert.efset.org/en/tiiCCp) |
 
 ## Stack
 
